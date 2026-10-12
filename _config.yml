@@ -1,0 +1,10 @@
+# Site settings
+title: liuyw
+tag_text: liuyw
+description: 
+
+# Build settings
+markdown: kramdown
+exclude: ["README.md"]
+sass:
+  style: compressed
